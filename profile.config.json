@@ -1,0 +1,21 @@
+{
+  "username": "cudam321",
+  "description": [
+    "Founder @UNRLZDtrade.",
+    "Full stack GTM, product direction and creatives."
+  ],
+  "projects": [
+    { "name": "UNRLZD", "description": "The NEAR Protocol Trading Terminal, trade without friction", "url": "https://unrlzd.trade", "shot": "projects/unrlzd.jpg" },
+    { "name": "amige", "description": "AI content-detector aggregator & harness", "url": "https://amige.app", "shot": "projects/amige.jpg" },
+    { "name": "giac.ai", "description": "Localized B2B GEO visibility platform", "url": "https://giac.ai", "shot": "projects/giac.jpg" },
+    { "name": "NRG portal", "description": "BLOND:ISH — $NRG · artist loyalty token", "url": "https://everythingisnrg.xyz/portal", "shot": "projects/nrg-portal.jpg" }
+  ],
+  "featured": [
+    "UNRLZD/confidential-trenches",
+    "cudam321/never-miss-a-meal",
+    "cudam321/the-perfect-human-voice",
+    "cudam321/mepola"
+  ],
+  "more": 6,
+  "hide": []
+}

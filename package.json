@@ -1,0 +1,10 @@
+{
+  "name": "profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/preview.mjs"
+  }
+}
